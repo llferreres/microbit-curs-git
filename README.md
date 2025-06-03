@@ -1,5 +1,5 @@
 
-> Obre aquesta pàgina a [https://llferreres.github.io/micro-chat/](https://llferreres.github.io/micro-chat/)
+> Obre aquesta pàgina a [https://llferreres.github.io/microbit-curs-git/](https://llferreres.github.io/microbit-curs-git/)
 
 ## Utilitza-ho com a extensió
 
@@ -8,7 +8,7 @@ Aquest dipòsit es pot afegir com una **extensió** a MakeCode.
 * obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * fes clic a **Projecte nou**
 * fes clic a **Extensions** sota el menú de la roda dentada
-* cercar **https://github.com/llferreres/micro-chat** i importar
+* cercar **https://github.com/llferreres/microbit-curs-git** i importar
 
 ## Edita aquest projecte
 
@@ -16,7 +16,7 @@ Per editar aquest repositori a MakeCode.
 
 * obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * fes clic a ** Importa** i després a ** Importa URL**
-* enganxa **https://github.com/llferreres/micro-chat** i clica importar
+* enganxa **https://github.com/llferreres/microbit-curs-git** i clica importar
 
 #### Metadades (utilitzades per a la cerca, renderització)
 
